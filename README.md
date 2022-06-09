@@ -4,7 +4,7 @@ Computing, DevOps, Web Development and Big Data to drive success in the technica
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sunil-1921&color=green&style=flat-square" alt="Sunil-1921" /> </p>
   <p align="center">
-- 📫 How to reach me **sunil.sirvi1921@gmail.com**
+    - 📫 How to reach me **sunil.sirvi1921@gmail.com**
 </p>
 <h3 align="center">Languages and Technologies I know:</h3>
 <p align="center"> 
