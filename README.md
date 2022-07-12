@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Portfolio website**  
   
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **sunil.sirvi1921@gmail.com**
 
