@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunil-1921" alt="sunil-1921" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/s_sirvi1921" target="blank"><img src="https://img.shields.io/twitter/follow/s_sirvi1921?logo=twitter&style=for-the-badge" alt="s_sirvi1921" /></a> </p> <br>
-
-- 🔭 I’m currently working on **Portfolio website**  
   
 - 🌱 I’m currently learning **DSA**
 
