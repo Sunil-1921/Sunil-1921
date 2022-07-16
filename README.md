@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Sirvi</h1>
-<h3 align="left">I'm a Final year student at NIT-Bhopal and highly focused and eager to leverage the in-depth knowledge of technical skills like – Cloud Computing, DevOps, Web Development and Big Data to drive success in the technical world. I'm hard worker and creactive person, great in time management. In the free time I do drawing and solving rubik cube. Always in hunger or excited to learn new things.</h3><br>
+<h3 align="left">I'm a Final year student at NIT-Bhopal and highly focused and eager to leverage the in-depth knowledge of technical skills like – Cloud Computing, DevOps, Web Development and Big Data to drive success in the technical world. I'm hard worker and creative person, great in time management. In the free time I do drawing and solving rubik cube. Always in hunger or excited to learn new things.</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-1921&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-1921" /> </p>
 
