@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Sirvi</h1>
-<h3 align="left">I'm a Final year student at NIT-Bhopal and highly focused and eager to leverage the in-depth knowledge of technical skills like – Cloud Computing, DevOps, Web Development and Big Data to drive success in the technical world. I'm hard worker and creative person, great in time management. In the free time I do drawing and solving rubik cube. Always in hunger or excited to learn new things.</h3><br>
+<h3 align="left">I graduated from NIT-Bhopal in 2023 and highly focused and eager to leverage the in-depth knowledge of technical skills like – Cloud Computing, DevOps, Web Development and Big Data to drive success in the technical world. I'm hard worker and creative person, great in time management. In the free time I do drawing and solving rubik cube. Always in hunger or excited to learn new things.</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-1921&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-1921" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/s_sirvi1921" target="blank"><img src="https://img.shields.io/twitter/follow/s_sirvi1921?logo=twitter&style=for-the-badge" alt="s_sirvi1921" /></a> </p> <br>
   
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **sunil.sirvi1921@gmail.com**
 
